@@ -1,0 +1,15 @@
+class abc extends DD{
+  public b(int a, a A,char c,A a){
+     this.a=5;
+	
+}
+    b(int a,int[] a){
+     this.a=xx*5;
+}
+public static void main(){
+    if(i==8){}
+   if(i==4){ b+=5; fn();}
+   else{
+      break;}
+}
+}

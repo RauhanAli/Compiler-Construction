@@ -1,0 +1,25 @@
+Void interface(((a<<<==b
+if_else(a//.b.c+++==97.56.5abc
+str="abc+=\\+abc-xabx+5
+str="abc+=\"+abc-xabx+5
+Char c='\\n'+'n'+r'\r'+'\
+return 55.8bc6.55.abc.5bc
+
+
+semantic case:
+class abc{
+
+  public b(int a, a A,char c,A a){
+     this.a=5;}
+    b(int a,int[] a){
+     this.a=xx*5;
+}
+public static void main(){
+till(4<=5&i==4+5|true){
+    if(i==8){}
+   if(i==4){ b+=5; fn();}
+   else{
+      break;}}
+}
+}
+

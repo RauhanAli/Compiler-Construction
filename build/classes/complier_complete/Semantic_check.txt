@@ -1,0 +1,52 @@
+public class A {}
+protected fin class B {}
+secure abst class C {}
+public class z extends B{}
+
+class abc extends A{
+    public b(int xy, a A,char ch,A a){
+        this.a=77;
+    }
+
+    public static void main(){
+        for(int i=0;i<=5;i++){
+                int a=5;
+            }
+
+        a.c[6].funnc()[12]=6;
+
+        do{return;}till(true);
+
+    }
+
+}
+
+public interface xyz{}
+abst class calc extends xyz{}
+interface iface extends xyz{}
+
+
+case 2:
+public class Alp {}
+protected fin class B {}
+secure abst class C {}
+public class z extends B{}
+
+class a extends Alp{
+    public b(int xy,char ch,Alp a){
+        this.a=77;
+    }
+	
+
+    public static void main(){
+        for(int i=0;i<=5;i++){
+                int a=5;
+            }
+
+        a.c[6].funnc()[12]=6;
+
+        do{return;}till(true);
+
+    }
+
+}

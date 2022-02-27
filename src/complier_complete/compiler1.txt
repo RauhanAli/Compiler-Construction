@@ -1,0 +1,56 @@
+class abc{
+
+  public b(int a, a A,char c,A a){
+     this.a=5;}
+
+    b(int a,int[] a){
+     this.a=xx*5;
+}
+
+  public static abst int fn();
+
+ public static A a=new A(x,b);
+
+
+public static void main(){
+
+int nn=5;
+
+  c=this.a++;
+public static int[][] a=new int[5][4];
+static int[][] a=new int[5][4];
+a[i][0]=5.6;
+a.b.c[6].fn()[6]=6;
+
+fn();
+fn(4,"syntax",'\n',true);
+
+obj M=new A(3,4,b[7]);
+
+till(4<=5&i==4+5|true){
+    if(i==8){}
+   if(i==4){ b+=5; fn();}
+   else{
+      break;}}
+
+do{return;}till(true);
+
+for(;;){}
+for(int a=0;a<=5;a++){
+int a=5;}
+
+shift(!true){
+case 1:  c[8]="done";
+       break;
+case 'c':break;
+default:
+   break;}
+
+
+  return fn(5);
+  return 0;
+  return ;
+
+
+}
+}
